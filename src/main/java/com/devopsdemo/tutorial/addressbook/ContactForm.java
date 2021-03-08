@@ -16,7 +16,7 @@ import com.vaadin.v7.ui.TextField;
 /* Create custom UI Components.
  *
  * Create your own Vaadin components by inheritance and composition.
-* * This is a form component inherited from VerticalLayout. Use
+ * This is a form component inherited from VerticalLayout. Use
  * Use BeanFieldGroup to bind data fields from DTO to UI fields.
  * Similarly named field by naming convention or customized
  * with @PropertyId annotation.
